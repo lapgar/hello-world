@@ -1,0 +1,15 @@
+#lab00
+print("Hello world")
+#I have typed this countless times but it remains fun
+print("I prefer PyCharm on the PC")
+#this isn't just for the assignment, I really do hate having to adjust to doing this on a mac
+#macs confuse me
+print("paper")
+#spelling?
+print("this is a statement")
+#I ran out of stuff to say
+print("I am a bundle of stress")
+x = input("Please enter a phrase")
+print(x)
+y = input("Please say something, I beg you")
+print(y)
